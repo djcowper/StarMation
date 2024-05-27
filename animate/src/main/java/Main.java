@@ -1,4 +1,4 @@
-package com.example;
+
 
 import javax.swing.JFrame;
 import java.awt.Component;
